@@ -8,8 +8,7 @@
 Welcome to the **REEL Hardware Project** repository (
 ![R](https://img.shields.io/badge/-R-red?style=flat-square)everse
 ![E](https://img.shields.io/badge/-E-red?style=flat-square)ngineering
-![EL](https://img.shields.io/badge/-EL-red?style=flat-square)ectrical
- Hardware).
+![EL](https://img.shields.io/badge/-EL-red?style=flat-square)ectrical) Hardware Project repository.
  
 This space is used to document, share, and collaborate on hardware design work, supporting files, and project progress.
 
