@@ -6,10 +6,10 @@
 ![Docs](https://img.shields.io/badge/Docs-Available-green.svg)
 
 Welcome to the **REEL Hardware Project** repository (
-![R](https://img.shields.io/badge/-R-red?style=flat-square)
-![E](https://img.shields.io/badge/-E-orange?style=flat-square)
-![EL](https://img.shields.io/badge/-EL-yellow?style=flat-square)
-Reverse Engineering Electrical Hardware).
+![R](https://img.shields.io/badge/-R-red?style=flat-square)everse
+![E](https://img.shields.io/badge/-E-red?style=flat-square)ngineering
+![EL](https://img.shields.io/badge/-EL-red?style=flat-square)ectrical
+ Hardware).
  
 This space is used to document, share, and collaborate on hardware design work, supporting files, and project progress.
 
