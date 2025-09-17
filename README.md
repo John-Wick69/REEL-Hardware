@@ -5,10 +5,13 @@
 ![Hardware](https://img.shields.io/badge/Hardware-KiCAD%20%7C%20Altium-orange.svg)
 ![Docs](https://img.shields.io/badge/Docs-Available-green.svg)
 
-Welcome to the **REEL Hardware Project** repository (
-![R](https://img.shields.io/badge/-R-black?style=flat-square)everse
-![E](https://img.shields.io/badge/-E-black?style=flat-square)ngineering
-![EL](https://img.shields.io/badge/-EL-black?style=flat-square)ectrical) Hardware Project repository.
+Welcome to the **REEL (
+![R](https://img.shields.io/badge/-R-red?style=flat-diamond)everse
+![E](https://img.shields.io/badge/-E-red?style=flat-diamond)ngineering
+![EL](https://img.shields.io/badge/-EL-red?style=flat-diamond)ectrical) Hardware Project** repository (
+![R](https://img.shields.io/badge/-R-red?style=flat-diamond)everse
+![E](https://img.shields.io/badge/-E-red?style=flat-diamond)ngineering
+![EL](https://img.shields.io/badge/-EL-red?style=flat-diamond)ectrical) Hardware Project repository.
  
 This space is used to document, share, and collaborate on hardware design work, supporting files, and project progress.
 
