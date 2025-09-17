@@ -5,7 +5,12 @@
 ![Hardware](https://img.shields.io/badge/Hardware-KiCAD%20%7C%20Altium-orange.svg)
 ![Docs](https://img.shields.io/badge/Docs-Available-green.svg)
 
-Welcome to the **REEL Hardware Project** repository (<span style="color:red">R</span>everse <span style="color:red">E</span>ngineering <span style="color:red">El</span>ectrical Hardware).  
+Welcome to the **REEL Hardware Project** repository (
+![R](https://img.shields.io/badge/-R-red?style=flat-square)
+![E](https://img.shields.io/badge/-E-orange?style=flat-square)
+![EL](https://img.shields.io/badge/-EL-yellow?style=flat-square)
+Reverse Engineering Electrical Hardware).
+ 
 This space is used to document, share, and collaborate on hardware design work, supporting files, and project progress.
 
 ---
