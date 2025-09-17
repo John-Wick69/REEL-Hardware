@@ -25,6 +25,12 @@ This space is used to document, share, and collaborate on hardware design work, 
 
 ## 🔎 Project Overview
 The REEL Hardware project focuses on the **development of advanced control electronics** with an emphasis on:
+- Reverse Engineering Hardware from zero to tested reproduction
+- Firmware extraction
+- High Resolution Imaging of PCBA with contrast and proper scaling (PhotoPEA)
+- PCBA and Schematic creation from High Resolution Images
+- BOM creation
+- Manual Verification of all PCBA routing, confirmation for PCBA and Schematic recreation
 - Modular PCB architectures
 - High-speed design techniques
 - RF design and impedance matching
